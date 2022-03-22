@@ -1,0 +1,1 @@
+select sum(l_extendedprice * (1 - l_discount)/1000) from nation as n1, nation as n2, customer, orders, lineitem, supplier where n1.N_NATIONKEY=customer.C_NATIONKEY and n2.N_NATIONKEY=supplier.S_NATIONKEY and customer.C_CUSTKEY=orders.O_CUSTKEY and orders.O_ORDERKEY=lineitem.L_ORDERKEY and lineitem.L_SUPPKEY=supplier.S_SUPPKEY;

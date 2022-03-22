@@ -1,0 +1,1 @@
+select sum(ps_supplycost * ps_availqty/1000000) from nation, supplier, partsupp where ps_suppkey = s_suppkey and s_nationkey = n_nationkey; 

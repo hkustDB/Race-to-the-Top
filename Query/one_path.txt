@@ -1,0 +1,3 @@
+select count(*)
+from node as r1, node as r2, edge
+where r1.id=edge.from_id and r2.id=edge.to_id and r1.id<r2.id;

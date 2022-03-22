@@ -1,0 +1,1 @@
+select count(*) from nation, supplier, lineitem, orders where s_suppkey = l_suppkey and o_orderkey = l_orderkey and s_nationkey = n_nationkey;

@@ -1,0 +1,1 @@
+Select count(*) from customer, orders, lineitem where orders.O_CUSTKEY=customer.C_CUSTKEY and lineitem.L_ORDERKEY=orders.O_ORDERKEY and o_orderdate<date'1997-01-01' and l_shipdate>date'1994-01-01';

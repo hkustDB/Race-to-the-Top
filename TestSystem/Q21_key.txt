@@ -1,0 +1,2 @@
+s_suppkey
+o_orderkey

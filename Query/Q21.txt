@@ -1,0 +1,1 @@
+select count(*) from ids as id1, ids as id2, nation, supplier, lineitem, orders where s_suppkey = l_suppkey and o_orderkey = l_orderkey and s_nationkey = n_nationkey and id1.i_id = supplier.s_id and id2.i_id = orders.o_id;

@@ -1,0 +1,32 @@
+256
+Time: 0.6463479200998942
+Query result: 67150
+LP result: 67150.0
+128.0
+Time: 0.6766535441080729
+Query result: 67150
+LP result: 67150.0
+64.0
+Time: 0.7085166772206625
+Query result: 67150
+LP result: 67150.0
+32.0
+Time: 0.801739772160848
+Query result: 67150
+LP result: 67150.0
+16.0
+Time: 0.9493727684020996
+Query result: 67150
+LP result: 67150.0
+8.0
+Time: 0.7444069385528564
+Query result: 67150
+LP result: 67150.0
+4.0
+Time: 0.8544201850891113
+Query result: 67150
+LP result: 67135.0
+2.0
+Time: 0.9366786479949951
+Query result: 67150
+LP result: 66134.33333333333

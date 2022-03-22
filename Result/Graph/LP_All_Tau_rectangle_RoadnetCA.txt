@@ -1,0 +1,48 @@
+4096
+Time: 3.982926289240519
+Query result: 262339
+LP result: 262339.0
+2048.0
+Time: 4.113158782323201
+Query result: 262339
+LP result: 262339.0
+1024.0
+Time: 3.9389096101125083
+Query result: 262339
+LP result: 262339.0
+512.0
+Time: 4.004607121149699
+Query result: 262339
+LP result: 262339.0
+256.0
+Time: 4.319675842920939
+Query result: 262339
+LP result: 262339.0
+128.0
+Time: 4.033473253250122
+Query result: 262339
+LP result: 262339.0
+64.0
+Time: 4.082391579945882
+Query result: 262339
+LP result: 262339.0
+32.0
+Time: 4.528538942337036
+Query result: 262339
+LP result: 262339.0
+16.0
+Time: 4.109328031539917
+Query result: 262339
+LP result: 262339.0
+8.0
+Time: 4.193301200866699
+Query result: 262339
+LP result: 262337.0
+4.0
+Time: 4.200072209040324
+Query result: 262339
+LP result: 261878.16666666672
+2.0
+Time: 6.926599343617757
+Query result: 262339
+LP result: 217679.58333333334

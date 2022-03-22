@@ -1,0 +1,3 @@
+select count(*)
+from node as r1, node as r2, node as r3, node as r4, edge as r5, edge as r6, edge as r7, edge as r8
+where r5.from_id = r8.to_id and r6.from_id = r5.to_id and r7.from_id = r6.to_id and r8.from_id = r7.to_id and r1.id = r5.from_id and r2.id = r6.from_id and r3.id = r7.from_id and r4.id = r8.from_id and r1.id < r2.id and r1.id < r3.id and r1.id < r4.id and r2.id < r4.id;

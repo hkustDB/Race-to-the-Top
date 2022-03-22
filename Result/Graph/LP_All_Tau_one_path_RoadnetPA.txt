@@ -1,0 +1,16 @@
+16
+Time: 12.952166239420572
+Query result: 1541898
+LP result: 1541898.0
+8.0
+Time: 13.129941463470459
+Query result: 1541898
+LP result: 1541894.0
+4.0
+Time: 13.75800053278605
+Query result: 1541898
+LP result: 1532163.5
+2.0
+Time: 49.83302243550619
+Query result: 1541898
+LP result: 990384.0

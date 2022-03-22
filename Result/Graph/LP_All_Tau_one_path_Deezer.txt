@@ -1,0 +1,40 @@
+1024
+Time: 5.741204420725505
+Query result: 846915
+LP result: 846915.0
+512.0
+Time: 6.085486729939778
+Query result: 846915
+LP result: 846915.0
+256.0
+Time: 5.413238922754924
+Query result: 846915
+LP result: 846502.0
+128.0
+Time: 5.698396921157837
+Query result: 846915
+LP result: 843281.0
+64.0
+Time: 5.597248713175456
+Query result: 846915
+LP result: 822402.5
+32.0
+Time: 7.457968393961589
+Query result: 846915
+LP result: 754533.5
+16.0
+Time: 14.878064632415771
+Query result: 846915
+LP result: 605999.5
+8.0
+Time: 26.41115403175354
+Query result: 846915
+LP result: 419237.5
+4.0
+Time: 30.990416606267292
+Query result: 846915
+LP result: 252678.5
+2.0
+Time: 27.813944339752197
+Query result: 846915
+LP result: 137919.5

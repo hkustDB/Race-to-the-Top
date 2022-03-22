@@ -1,0 +1,1 @@
+select sum(l_quantity) from customer, orders, lineitem where c_custkey = o_custkey and o_orderkey = l_orderkey;
