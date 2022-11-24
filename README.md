@@ -17,7 +17,7 @@
     * [Local-sensitivity Based Mechanism](#local-sensitivity-based-mechanism)
 
 ## About The Project
-Race to the Top (R2T) is for answering SJPA over the database with foreign key constraints. This work has been accpeted by SIGMOD 2022. Paper is avaliable [here](https://www.cse.ust.hk/~yike/R2T.pdf). The main task of this project is to demo the R2T system and the experiments in that paper.
+Race to the Top (R2T) is for answering SPJA over the database with foreign key constraints. This work has been accpeted by SIGMOD 2022. Paper is avaliable [here](https://www.cse.ust.hk/~yike/R2T.pdf). The main task of this project is to demo the R2T system and the experiments in that paper.
 
 The file structure is as below
 ```
