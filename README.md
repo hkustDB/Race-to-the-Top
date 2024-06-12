@@ -59,6 +59,8 @@ project
 
 `./TestSystem` stores the demo queries for the system.
 
+## Special Notification
+Please notice that the error guarantee of R2T is a high-probability guarantee. That is, error is bounded with a probablity of 1-$\beta$. You can adjust $\beta$ by setting the parameter `-b`. If you want to compare your algorithm with us, for the fair comparision, please use a very small $\beta$ if you average all errors or just some ratio of bad errors as the experiment in our SIGMOD paper.
 
 ## Prerequisites
 ### Tools
